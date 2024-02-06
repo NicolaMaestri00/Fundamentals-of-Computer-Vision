@@ -3,7 +3,7 @@
 ## Syllabus
 * Models for Geometry
   - Pinehole Camera
-  - Models for transformations (Homomographies, RASNAC)
+  - Models for transformations (Homography, RASNAC)
   - Multiple Cameras
 * Models for Vision
   - Bag of Words

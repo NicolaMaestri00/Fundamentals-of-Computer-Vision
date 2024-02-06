@@ -4,20 +4,20 @@
 
 ## Assignments
 ### TASK 0 - Colorizing Images
-![img_2](https://github.com/NicolaMaestri00/Computer-Vision-183.585/assets/104208237/a4b38e27-7b94-489c-92b7-1656d66f81d8)
+![0](https://github.com/NicolaMaestri00/Fundamentals-of-Computer-Vision/assets/104208237/81cdd384-c463-44fa-8291-9d5ea978fdc4)
 
 ### TASK 1 - Blob detection
-![img_task1](https://github.com/NicolaMaestri00/Computer-Vision-183.585/assets/104208237/e99b488c-cb0f-4e7d-be7a-30b71b74adcd)
+![1](https://github.com/NicolaMaestri00/Fundamentals-of-Computer-Vision/assets/104208237/65c5e89d-3153-4a34-86bb-203dba62ead1)
+![2](https://github.com/NicolaMaestri00/Fundamentals-of-Computer-Vision/assets/104208237/670a550a-52b2-41ae-80ee-0668309ef707)
 
 ### TASK 2 - Image stitching
-![img_task2](https://github.com/NicolaMaestri00/Computer-Vision-183.585/assets/104208237/05f9635c-88a1-42f2-85e1-8f8a0972e44a)
-![img2_task2](https://github.com/NicolaMaestri00/Computer-Vision-183.585/assets/104208237/ec1585d8-44ee-4394-a3e1-f651f888235b)
+![3](https://github.com/NicolaMaestri00/Fundamentals-of-Computer-Vision/assets/104208237/07c66d92-9afa-4a7c-85f3-5e33392e3233)
 
 ### TASK 3 - Scene recognition with Bag of Visual Words
-![task3](https://github.com/NicolaMaestri00/Computer-Vision-183.585/assets/104208237/fa7e196c-f1af-4287-8b34-07a1c22a1d2f)
+![4](https://github.com/NicolaMaestri00/Fundamentals-of-Computer-Vision/assets/104208237/f953fe52-f371-424a-9cef-0656d5aa6bc3)
 
 ### TASK 4 - Face Mask Detection using Convolutional Neural Networks
-![task4](https://github.com/NicolaMaestri00/Computer-Vision-183.585/assets/104208237/f3c89cd1-214c-4aa6-baa7-c69768f6581d)
+![5](https://github.com/NicolaMaestri00/Fundamentals-of-Computer-Vision/assets/104208237/e4b72189-51d5-4df8-8a1a-59bf161c37a5)
 
 ### TASK 5 - Scene recognition with ResNet and finetuned AlexNet
-![task5_0](https://github.com/NicolaMaestri00/Computer-Vision-183.585/assets/104208237/9dcfe01c-6419-47cf-89f4-c8dc2007f749)
+![6](https://github.com/NicolaMaestri00/Fundamentals-of-Computer-Vision/assets/104208237/9052f5dd-a07f-4be0-a504-fd31031991d9)

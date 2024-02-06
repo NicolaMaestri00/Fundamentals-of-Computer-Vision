@@ -1,6 +1,21 @@
 # Computer-Vision - TuWien
 
 ## Syllabus
+* Models for Geometry
+  - Pinehole Camera
+  - Models for transformations (Homomographies, RASNAC)
+  - Multiple Cameras
+* Models for Vision
+  - Bag of Words
+* Image preprocessing and feature extraction
+  - Edges, corners, and interest points
+  - Descriptors
+  - Dimensionality Reduction
+* Machine Learning for Machine Vision
+  - Modelling complex data densities
+  - Regression models
+  - Classification models
+  - Convolutional Neural Networks
 
 ## Assignments
 ### TASK 0 - Colorizing Images

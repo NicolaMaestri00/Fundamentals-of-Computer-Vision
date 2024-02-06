@@ -23,9 +23,9 @@
 
 ### TASK 1 - Blob detection
 ![1](https://github.com/NicolaMaestri00/Fundamentals-of-Computer-Vision/assets/104208237/65c5e89d-3153-4a34-86bb-203dba62ead1)
-![2](https://github.com/NicolaMaestri00/Fundamentals-of-Computer-Vision/assets/104208237/670a550a-52b2-41ae-80ee-0668309ef707)
 
 ### TASK 2 - Image stitching
+![2](https://github.com/NicolaMaestri00/Fundamentals-of-Computer-Vision/assets/104208237/670a550a-52b2-41ae-80ee-0668309ef707)
 ![3](https://github.com/NicolaMaestri00/Fundamentals-of-Computer-Vision/assets/104208237/07c66d92-9afa-4a7c-85f3-5e33392e3233)
 
 ### TASK 3 - Scene recognition with Bag of Visual Words

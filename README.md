@@ -38,6 +38,6 @@
 ![6](https://github.com/NicolaMaestri00/Fundamentals-of-Computer-Vision/assets/104208237/9052f5dd-a07f-4be0-a504-fd31031991d9)
 
 ### Authors
-1. Nicola Maestri
+1. Nicola
 2. Saku
 3. Ben

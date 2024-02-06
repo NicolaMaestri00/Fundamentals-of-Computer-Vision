@@ -1,4 +1,4 @@
-# Computer-Vision - TuWien
+# Introduction-to-Computer-Vision
 
 ## Syllabus
 * Models for Geometry

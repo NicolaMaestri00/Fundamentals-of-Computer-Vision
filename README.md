@@ -1,4 +1,5 @@
-# Introduction-to-Computer-Vision
+# 👁️ Computer Vision Laboratories
+> 🏫 Technische Universität Wien | 📸 Fundamentals of Computer Vision  | 📅 A.Y. 2023/2024 | 📗 Assignments
 
 ## Syllabus
 * Models for Geometry
